@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BonWebsiteTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f13e7c9993d9ed38ab3237c181738409fb6f27fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("BonWebsiteTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BonWebsiteTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

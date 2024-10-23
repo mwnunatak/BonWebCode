@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/BonWebsiteTest.csproj": {}
+    "/Users/moritz.wagner/Documents/GitHub/BonWebCode/BonWebsiteTest/BonWebsiteTest.csproj": {}
   },
   "projects": {
-    "/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/BonWebsiteTest.csproj": {
+    "/Users/moritz.wagner/Documents/GitHub/BonWebCode/BonWebsiteTest/BonWebsiteTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/BonWebsiteTest.csproj",
+        "projectUniqueName": "/Users/moritz.wagner/Documents/GitHub/BonWebCode/BonWebsiteTest/BonWebsiteTest.csproj",
         "projectName": "BonWebsiteTest",
-        "projectPath": "/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/BonWebsiteTest.csproj",
+        "projectPath": "/Users/moritz.wagner/Documents/GitHub/BonWebCode/BonWebsiteTest/BonWebsiteTest.csproj",
         "packagesPath": "/Users/moritz.wagner/.nuget/packages/",
-        "outputPath": "/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/obj/",
+        "outputPath": "/Users/moritz.wagner/Documents/GitHub/BonWebCode/BonWebsiteTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/moritz.wagner/.nuget/NuGet/NuGet.Config"
