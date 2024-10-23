@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1>Welcome</h1>
+    <div class="form-group">
+        <label for="email">Your current e-mail is:</label>
+        <input type="email" id="email" value="user@example.com" readonly>
+    </div>
+    <div class="form-group">
+        <label for="code">My verification code:</label>
+        <input type="text" id="code" placeholder="Enter code">
+    </div>
+    <div class="form-group">
+        <label>
+            <input type="checkbox" id="receive-receipts">
+            Yes, I want to receive digital receipts with this e-mail in the future
+        </label>
+    </div>
+    <button type="button" onclick="saveVerification()">Save</button>
+</div>

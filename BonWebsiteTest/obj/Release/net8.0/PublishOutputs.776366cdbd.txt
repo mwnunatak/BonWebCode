@@ -1,0 +1,7 @@
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/BonWebsiteTest
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/appsettings.json
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/BonWebsiteTest.dll
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/BonWebsiteTest.deps.json
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/BonWebsiteTest.runtimeconfig.json
+/Users/moritz.wagner/Documents/AzureApp/BON_Website/BonWebsiteTest/bin/Release/net8.0/publish/BonWebsiteTest.pdb
